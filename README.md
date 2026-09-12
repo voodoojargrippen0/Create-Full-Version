@@ -238,3 +238,6 @@ This repository serves as the official landing page for Create. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Create today!**
+
+---
+**Last updated:** 2026-09-12 13:29:28 UTC
